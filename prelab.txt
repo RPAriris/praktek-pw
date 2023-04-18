@@ -1,0 +1,4 @@
+1. web adalah suatu informasi yang diakses menggunakan internet mencakup tulisan, grafik(audio & visual), an desain
+2. uri adalah uniform resource identifier yang artinya identifikasi sumber daya dari iternet dan url adalah uniform rescource location yag artinya identifikasi lokasi dari sumber daya internet
+3. tag dasar html itu <!DOCTYPE htl>; <html></html>; <head><?head>
+4. tag tersebut digunakan untuk menjelaskan jenis file yang digunakan termasuk jenis file html
