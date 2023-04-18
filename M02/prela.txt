@@ -1,0 +1,10 @@
+1. semantik itu makna atau yang sebenarnya dengan jelas menjelaskan langsung artinya untuk browser dan pengembangan
+2. elemen <heade> digunakan untuk menampilkan judul, logo atau header lainnya.
+elemen <nav> untuk menunjukan bagian navigasi atau menu navigasi di sebuah halaman web.
+elemen <main> untuk menunjukkan konten utama
+elemen <setion> untuk menunjukkan bagian atau seksi dari halama web
+elemen <aside> untuk menampilkan konten pendukung atau terkait dengan konten utama halaman
+elemen <footer> berisi iformasi mengenai penulis, hak cipta atau informasi lainnya
+
+untuk google seachingnya unutk lebih gampang konten kita
+3. <form> <table> <article> <header> <nav> <main> <footer> <aside>
